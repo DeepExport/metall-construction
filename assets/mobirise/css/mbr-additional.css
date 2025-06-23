@@ -1870,11 +1870,19 @@ a {
 .cid-uOzjuQXpzw .content-head {
   max-width: 800px;
 }
+.cid-uOWJQACLaR {
+  padding-top: 0rem;
+  padding-bottom: 1rem;
+  background-color: #ffffff;
+}
 .cid-uO1rXS3o8O {
   padding-top: 30px;
-  padding-bottom: 30px;
+  padding-bottom: 0px;
   background-color: #000000;
   overflow: hidden;
+}
+.cid-uO1rXS3o8O .media-container-row .mbr-text {
+  text-align: right;
 }
 .cid-uOoaZjNjYq {
   display: flex;
@@ -2213,4 +2221,7 @@ a {
   padding-bottom: 30px;
   background-color: #000000;
   overflow: hidden;
+}
+.cid-uOoaZkTmKa .media-container-row .mbr-text {
+  text-align: right;
 }
